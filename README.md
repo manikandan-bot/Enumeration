@@ -56,12 +56,36 @@ Open terminal and try execute some kali linux commands
 ```
 
 # Output:
+## SITE
+<img width="1424" height="1008" alt="Screenshot 2025-09-05 180818" src="https://github.com/user-attachments/assets/78dfbc47-3511-44e5-be7e-b56300e90e17" />
+
+## INTEXT
+<img width="1394" height="1023" alt="Screenshot 2025-09-05 181547" src="https://github.com/user-attachments/assets/fb8ae387-729b-440e-a2e2-60ed008d00e4" />
+
+## FILETYPE
+<img width="1372" height="976" alt="Screenshot 2025-09-05 181612" src="https://github.com/user-attachments/assets/ed3694bd-cd37-4d18-90de-df6d50fc678a" />
+
+## INURL
+<img width="1368" height="1026" alt="Screenshot 2025-09-05 181158" src="https://github.com/user-attachments/assets/6fcdb99e-5ee0-4aa2-90bd-c70490001843" />
+
+## LINK
+<img width="1517" height="1017" alt="Screenshot 2025-09-05 181718" src="https://github.com/user-attachments/assets/1752c27e-1fc2-4f1e-999a-35fbd0c59213" />
+
+
+## CACHE
+<img width="1091" height="1004" alt="Screenshot 2025-09-05 181924" src="https://github.com/user-attachments/assets/7b6c9a85-0b57-4776-aeff-7a33706d9762" />
+
+
+## EXT
+<img width="1199" height="1049" alt="Screenshot 2025-09-05 182052" src="https://github.com/user-attachments/assets/da438c5d-81c3-4e15-873c-f5174a1e2530" />
 
 
 # DNS Enumeration
+<img width="689" height="509" alt="Screenshot 2025-09-05 194523" src="https://github.com/user-attachments/assets/5d3d4f5f-2f3b-42a5-9ea8-f7a5176a0634" />
 
 
 ## DNS Recon
+
 
 | Record Type | Meaning                        | Example Output                   |
 | ----------- | ------------------------------ | -------------------------------- |
@@ -86,6 +110,27 @@ Open terminal and try execute some kali linux commands
 
 
 ## OUTPUT:
+## NSLOOKUP
+<img width="550" height="748" alt="Screenshot 2025-09-05 194629" src="https://github.com/user-attachments/assets/b8b01874-9d58-4428-bbbf-5930b3e2b86d" />
+
+
+## DIG
+<img width="672" height="583" alt="Screenshot 2025-09-05 194738" src="https://github.com/user-attachments/assets/eca499bb-ff98-405e-a65d-e50844370f9f" />
+
+## HOST
+<img width="535" height="414" alt="Screenshot 2025-09-05 194807" src="https://github.com/user-attachments/assets/b22dec19-2180-47ae-a069-0e4e7a96452d" />
+
+## DNSENUM
+<img width="631" height="513" alt="Screenshot 2025-09-05 194851" src="https://github.com/user-attachments/assets/74bbcc3b-afb6-4a85-a0b0-9a3025537efd" />
+
+## FIERCE
+<img width="646" height="802" alt="Screenshot 2025-09-05 194927" src="https://github.com/user-attachments/assets/fcc37750-028b-4a3c-ac69-e7c8a5dcac05" />
+
+## theHarvester
+<img width="580" height="523" alt="Screenshot 2025-09-05 195029" src="https://github.com/user-attachments/assets/352fff54-3bbc-4beb-8140-b322092f6cb4" />
+
+
+
 
 ## Architecture Diagram 
 ```
@@ -125,6 +170,8 @@ dnsenum example.com
 ```
 
 ## Output:
+<img width="684" height="542" alt="Screenshot 2025-09-05 195131" src="https://github.com/user-attachments/assets/ee46612d-1aa6-4874-ae9c-4af08b0c8872" />
+
 
 
 
@@ -138,6 +185,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 ```
   
  ## Output
+ <img width="829" height="504" alt="Screenshot 2025-09-05 195438" src="https://github.com/user-attachments/assets/04b4d797-2cc8-4b46-af0d-c881e26a4e24" />
+
   
 
 
@@ -151,6 +200,8 @@ smtp-user-enum -M VRFY -U users.txt -t <target-ip>
 nmap -p 25 --script smtp-enum-users.nse <target-ip>
 ```
 ## OUTPUT:
+<img width="814" height="167" alt="Screenshot 2025-09-05 195449" src="https://github.com/user-attachments/assets/cd8383af-1cab-45ca-8e06-445eab001c49" />
+
 
 
 
